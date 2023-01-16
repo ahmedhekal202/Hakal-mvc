@@ -1,0 +1,12 @@
+{
+    "name": "hekal/mvc",
+    "description": "mvc",
+    "autoload": {
+        "psr-4": {
+            "Hekal\\Mvc\\": "src/"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.14"
+    }
+}
